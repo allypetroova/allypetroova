@@ -7,6 +7,6 @@
   
 ### :fire: My Stats :
 [![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=allypetroova&count_private=true&theme=radical&showicons=true)]()
-[![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=allypetroova&langs_count=5&theme=tokyonight)]()
+[![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=allypetroova&langs_count=5&theme=radical)]()
 
 </div>
